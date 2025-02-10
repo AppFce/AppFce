@@ -1,1 +1,10 @@
-
+redes = [
+    ("facebook", "Facebook FCE", "https://www.facebook.com/fceconomicasuncuyo/"),
+    ("twitter", "Twitter FCE", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
+    ("youtube", "YouTube FCE", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
+    ("linkedin", "LinkedIn FCE", "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"),
+    ("instagram", "Instagram FCE", "https://www.instagram.com/fceconomicasuncuyo/"),
+    ("instagram", "Secretaría de Bienestar FCE", "https://www.instagram.com/fcebienestar/"),
+    ("instagram", "Secretaría de Bienestar SR", "https://www.instagram.com/fcebienestar.sr/"),
+    ("instagram", "Extensión y Vinculación", "https://www.instagram.com/extension_fce/")
+]
