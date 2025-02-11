@@ -37,11 +37,39 @@ fce_mail = [
 estudiante_becas = [
     ("link-variant", "Becas Progresar", "https://www.argentina.gob.ar/educacion/progresar"),
     ("link-variant", "Becas Manuel Belgrano", "https://www.argentina.gob.ar/educacion/becas/becas-manuel-belgrano"),
-    ("link-variant", "Becas UNCuyo", " https://becas.uncuyo.edu.ar/becas"),
+    ("link-variant", "Becas UNCuyo", "https://becas.uncuyo.edu.ar/becas"),
     ("link-variant", "Becas FCE", "https://fce.uncuyo.edu.ar/igualdad-de-oportunidades"),
     ("link-variant", "Becas Centro de Estudiantes", "https://fce.uncuyo.edu.ar/centro-de-estudiantes"),
 ]
 
+estudiente_tramites = [
+    ("link-variant", "Sugerencias y reclamos FCE", "https://docs.google.com/forms/d/e/1FAIpQLSfl9Xr438aG2XVHCEFI-Wmn3_4AOc4Vax3G9Y57eNQmGwewOg/viewform"),
+    ("link-variant", "Solicitar certificado de asistencia a examen", "https://docs.google.com/forms/d/e/1FAIpQLSec4L7cSIcYhVyy2dp53jAM78oIQoRT9D7EdsgELbCZxguJ0g/viewform?embedded=true"),
+    ("link-variant", "Descargar certificado de asistencia a examen", "https://drive.google.com/drive/folders/1dNhS98fqXdxH3W_qqQwmWWujwaEc17jY"),
+    ("link-variant", "Prácticas de trabajo, LA", "https://fce.uncuyo.edu.ar/guia_tramites/categoria/7"),
+    ("link-variant", "Trabajo de investigación, CP, LA, LE", "https://fce.uncuyo.edu.ar/guia_tramites/categoria/8"),
+    ("link-variant", "Modelos de nota", "https://drive.google.com/drive/folders/1TWlWUvIpSRt2D_vRlBfGh3R4l3362prm"),
+    ("link-variant", "Solicitud Certificado Medio Boleto", "https://docs.google.com/forms/d/e/1FAIpQLSc3KcpkTkZ-kWzNqChjnSbTHPK2T3P-8HYDBQFbY9UhGKLubA/viewform"),
+    ("link-variant", "Licencias estudiantiles", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/3"),
+    ("link-variant", "Solicitud Cuenta de Mail Institucional", "https://docs.google.com/forms/d/e/1FAIpQLSckXphFcNoPsRw8mGdW3lWWrj7drXMPafxfdc1vu2dxQsOgsA/viewform"),
+    ("link-variant", "Adscripción", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/12"),
+    ("link-variant", "Ayudantía Ad Honorem", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/13"),
+    ("link-variant", "Cambio de carrera", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/53"),
+    ("link-variant", "Estudiantes Vocacionales", "https://fce.uncuyo.edu.ar/alumnos-vocacionales"),
+    ("link-variant", "Inscripciones fuera de término", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/37"),
+    ("link-variant", "Justificación de Inasistencia a un Examen Final", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/11"),
+    ("link-variant", "Pases y Equivalencias", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/32"),
+    ("link-variant", "Articulación entre carreras", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/58"),
+    ("link-variant", "Rectificaciones de actas", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/33"),
+    ("link-variant", "Solicitud Cambio de Plan", "https://docs.google.com/forms/d/e/1FAIpQLSc2W0mdCm7ws4i8kbtduaBGIgw-aioV1Q_ygbM1o3gvZsC63Q/viewform"),
+    ("link-variant", "Solicitud de Extensión de Regularidad", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/10"),
+    ("link-variant", "Solicitud de Inscripción Fuera de Término", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/7"),
+    ("link-variant", "Solicitud de Justificación de Rendimiento Académico Negativo (RAN)", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/8"),
+    ("link-variant", "Pases de Sede", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/36"),
+    ("link-variant", "Solicitud de readmisión por medio de prueba global de conocimientos", "https://fce.uncuyo.edu.ar/guia_tramites/tramite/54"),
+    ("link-variant", "Inscripción Mesas especiales", "https://fce.uncuyo.edu.ar/mesas-especiales"),
+]
+    
 
     
 
