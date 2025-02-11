@@ -26,3 +26,6 @@ fce_econet = [
     ("link-variant", "Accedé a EXTENSIÓN", "https://eextension.fce.uncu.edu.ar/login/index.php")
 ]
 
+fce_guarani = [
+    ("link-variant", "Accedé a GUARANI", "https://siuweb.fce.uncu.edu.ar/g3w3/"),
+]
