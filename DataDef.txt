@@ -1,12 +1,12 @@
 fce_redes = [
-    ("facebook", "Facebook FCE", "https://www.facebook.com/fceconomicasuncuyo/"),
-    ("twitter", "Twitter FCE", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
-    ("youtube", "YouTube FCE", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
-    ("linkedin", "LinkedIn FCE", "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"),
-    ("instagram", "Instagram FCE", "https://www.instagram.com/fceconomicasuncuyo/"),
-    ("instagram", "Secretaría de Bienestar FCE", "https://www.instagram.com/fcebienestar/"),
-    ("instagram", "Secretaría de Bienestar SR", "https://www.instagram.com/fcebienestar.sr/"),
-    ("instagram", "Extensión y Vinculación", "https://www.instagram.com/extension_fce/")
+    ("Facebook FCE", imagen_base + "facebook.png", "https://www.facebook.com/fceconomicasuncuyo/"),
+    ("Twitter FCE", imagen_base + "x.png", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
+    ("YouTube FCE", imagen_base + "youtube.png", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
+    ("LinkedIn FCE", imagen_base + "linkedin.png", "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"),
+    ("Instagram FCE", imagen_base + "instagram.png", "https://www.instagram.com/fceconomicasuncuyo/"),
+    ("Secretaría de Bienestar FCE", imagen_base + "instagram.png", "https://www.instagram.com/fcebienestar/"),
+    ("Secretaría de Bienestar SR", imagen_base + "instagram.png", "https://www.instagram.com/fcebienestar.sr/"),
+    ("Extensión y Vinculación", imagen_base + "instagram.png", "https://www.instagram.com/extension_fce/"),
 ]
 
 fce_urls = [
