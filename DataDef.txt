@@ -27,7 +27,7 @@ fce_econet = [
 ]
 
 fce_guarani = [
-    ("link-variant", "Accedé a GUARANI", "https://siuweb.fce.uncu.edu.ar/g3w3/"),
+    ("Accedé a GUARANI", ""imagen_base_guarani.png", "https://siuweb.fce.uncu.edu.ar/g3w3/"),
 ]
 
 fce_mail = [
