@@ -1,4 +1,4 @@
-redes = [
+fce_redes = [
     ("facebook", "Facebook FCE", "https://www.facebook.com/fceconomicasuncuyo/"),
     ("twitter", "Twitter FCE", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
     ("youtube", "YouTube FCE", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
@@ -8,6 +8,16 @@ redes = [
     ("instagram", "Secretaría de Bienestar SR", "https://www.instagram.com/fcebienestar.sr/"),
     ("instagram", "Extensión y Vinculación", "https://www.instagram.com/extension_fce/")
 ]
+
+fce_urls = [
+    ("link-variant", "Web FCE", "https://fce.uncuyo.edu.ar/"),
+    ("link-variant", "Oferta Académica", "https://fce.uncuyo.edu.ar/estudios-fce"),
+    ("link-variant", "Académica", "https://fce.uncuyo.edu.ar/secretara-acadmica"),
+    ("link-variant", "Administración y Finanzas", "https://fce.uncuyo.edu.ar/secretara-administrativo-financiera"),
+    ("link-variant", "Bienestar", "https://fce.uncuyo.edu.ar/secretara-de-asuntos-estudiantiles"),
+    ("link-variant", "Extensión y Vinculación", "https://fce.uncuyo.edu.ar/cursos/"),
+    ("link-variant", "Posgrado, Investigación e Internacionalización", "https://fce.uncuyo.edu.ar/estudios/posgrados")
+]       
 
 
 
