@@ -19,5 +19,10 @@ fce_urls = [
     ("link-variant", "Posgrado, Investigación e Internacionalización", "https://fce.uncuyo.edu.ar/estudios/posgrados")
 ]       
 
-
+fce_econet = [
+    ("link-variant", "Accedé a INGRESO", "https://eingreso.fce.uncu.edu.ar/login/index.php"),
+    ("link-variant", "Accedé a GRADO", "https://moodle.fce.uncu.edu.ar/login/index.php"),
+    ("link-variant", "Accedé a POSGRADO", "https://eposgrado.fce.uncu.edu.ar/login/index.php"),
+    ("link-variant", "Accedé a EXTENSIÓN", "https://eextension.fce.uncu.edu.ar/login/index.php")
+]
 
