@@ -20,10 +20,10 @@ fce_urls = [
 ]       
 
 fce_econet = [
-    ("link-variant", "Accedé a INGRESO", "https://eingreso.fce.uncu.edu.ar/login/index.php"),
-    ("link-variant", "Accedé a GRADO", "https://moodle.fce.uncu.edu.ar/login/index.php"),
-    ("link-variant", "Accedé a POSGRADO", "https://eposgrado.fce.uncu.edu.ar/login/index.php"),
-    ("link-variant", "Accedé a EXTENSIÓN", "https://eextension.fce.uncu.edu.ar/login/index.php")
+    ("Accedé a INGRESO", "imagen_base_ingreso.png", "https://eingreso.fce.uncu.edu.ar/login/index.php"),
+    ("Accedé a GRADO", "imagen_base_grado.png", "https://moodle.fce.uncu.edu.ar/login/index.php"),
+    ("Accedé a POSGRADO", "imagen_base_posgrado.png", "https://eposgrado.fce.uncu.edu.ar/login/index.php"),
+    ("Accedé a EXTENSIÓN", "imagen_base_extension.png", "https://eextension.fce.uncu.edu.ar/login/index.php")
 ]
 
 fce_guarani = [
