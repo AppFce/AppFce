@@ -33,3 +33,17 @@ fce_guarani = [
 fce_mail = [
     ("mail", "Accedé al MAIL", "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hd=fce.uncu.edu.ar&ifkv=AaSxoQx1Vwt1WONQmU1LiIwqswpObmaDgh8L285VHLDQ9hqMMIhMIMVCb8A5jOXbmhheRNxn17GGZQ&ltmpl=default&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1156657795%3A1714393827643475&theme=mn&ddm=0"),
 ]
+
+estudiante_becas = [
+    ("link-variant", "Becas Progresar", "https://www.argentina.gob.ar/educacion/progresar"),
+    ("link-variant", "Becas Manuel Belgrano", "https://www.argentina.gob.ar/educacion/becas/becas-manuel-belgrano"),
+    ("link-variant", "Becas UNCuyo", " https://becas.uncuyo.edu.ar/becas"),
+    ("link-variant", "Becas FCE", "https://fce.uncuyo.edu.ar/igualdad-de-oportunidades"),
+    ("link-variant", "Becas Centro de Estudiantes", "https://fce.uncuyo.edu.ar/centro-de-estudiantes"),
+]
+
+
+    
+
+
+    
