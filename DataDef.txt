@@ -71,37 +71,5 @@ estudiente_tramites = [
 ]
     
 
-fce_telefonos = [
-    ("Asociación Cooperadora", "2490", ""),
-    ("Base de datos", "2433", ""),
-    ("Biblioteca", "2423", ""),
-    ("Centro de Estudiantes (CECE)", "2484", ""),
-    ("Clases y Exámenes", "4066", ""),
-    ("Click - Portal de Información", "4066", ""),
-    ("Decanato", "4062", ""),
-    ("Dirección de Estudiantes", "4065", ""),
-    ("Dirección de Ingreso - Coordinación", "2429", "ingresofce@fce.uncu.edu.ar"),
-    ("Dirección de Personal", "2413", "recursoshumanos@fce.uncu.edu.ar"),
-    ("Dirección General de Gestión Académica", "2409", ""),
-    ("Dirección General de Gestión Académica", "2430", ""),
-    ("Informática", "4067", ""),
-    ("Internacionalización", "62400", "internacionales@fce.uncu.edu.ar"),
-    ("Magnagro - Esp. en Costos", "4207", ""),
-    ("Mesa de Entradas", "2411", ""),
-    ("SAPOE", "2424", ""),
-    ("Secretaría Académica", "2405", ""),
-    ("Secretaría de Administración y Finanzas", "2494", ""),
-    ("Secretaría de Bienestar", "2412", ""),
-    ("Secretaría de Extensión y Vinculación", "2403", ""),
-    ("Secretaría de Extensión y Vinculación", "2500", ""),
-    ("Secretaría de Posgrado, Investigación e Internacionalización", "2406", ""),
-    ("Secretaría de Posgrado, Investigación e Internacionalización", "2407", ""),
-    ("Secretaría de Posgrado, Investigación e Internacionalización", "2498", ""),
-    ("Secretaría Privada", "4063", ""),
-    ("Transformación Digital", "2615092936", ""),
-    ("Vicedecanato", "2401", "")
-]
-    
-
 
     
