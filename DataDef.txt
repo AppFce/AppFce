@@ -1,22 +1,22 @@
 fce_redes = [
-    ("Facebook FCE", "imagen_base_fce_facebook.png", "https://www.facebook.com/fceconomicasuncuyo/"),
-    ("Twitter FCE", "imagen_base_fce_x.png", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
-    ("YouTube FCE", "imagen_base_fce_youtube.png", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
-    ("LinkedIn FCE", "imagen_base_fce_linkedin.png", "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"),
-    ("Instagram FCE", "imagen_base_fce_instagram.png", "https://www.instagram.com/fceconomicasuncuyo/"),
-    ("Secretaría de Bienestar FCE", "imagen_base_fce_instagram.png", "https://www.instagram.com/fcebienestar/"),
-    ("Secretaría de Bienestar SR", "imagen_base_fce_instagram.png", "https://www.instagram.com/fcebienestar.sr/"),
-    ("Extensión y Vinculación", "imagen_base_fce_instagram.png", "https://www.instagram.com/extension_fce/"),
+    ("Facebook FCE", "imagen_base_facebook.png", "https://www.facebook.com/fceconomicasuncuyo/"),
+    ("Twitter FCE", "imagen_base_x.png", "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"),
+    ("YouTube FCE", "imagen_base_youtube.png", "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"),
+    ("LinkedIn FCE", "imagen_base_linkedin.png", "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"),
+    ("Instagram FCE", "imagen_base_instagram.png", "https://www.instagram.com/fceconomicasuncuyo/"),
+    ("Secretaría de Bienestar FCE", "imagen_base_instagram.png", "https://www.instagram.com/fcebienestar/"),
+    ("Secretaría de Bienestar SR", "imagen_base_instagram.png", "https://www.instagram.com/fcebienestar.sr/"),
+    ("Extensión y Vinculación", "imagen_base_instagram.png", "https://www.instagram.com/extension_fce/"),
 ]
 
 fce_urls = [
-    ("Web FCE", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/"),
-    ("Oferta Académica", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/estudios-fce"),
-    ("Académica", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/secretara-acadmica"),
-    ("Administración y Finanzas", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/secretara-administrativo-financiera"),
-    ("Bienestar", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/secretara-de-asuntos-estudiantiles"),
-    ("Extensión y Vinculación", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/cursos/"),
-    ("Posgrado, Investigación e Internacionalización", "imagen_base_link.png", "https://fce.uncuyo.edu.ar/estudios/posgrados")
+    ("Web FCE", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/"),
+    ("Oferta Académica", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/estudios-fce"),
+    ("Académica", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/secretara-acadmica"),
+    ("Administración y Finanzas", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/secretara-administrativo-financiera"),
+    ("Bienestar", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/secretara-de-asuntos-estudiantiles"),
+    ("Extensión y Vinculación", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/cursos/"),
+    ("Posgrado, Investigación e Internacionalización", "imagen_base_fce_link.png", "https://fce.uncuyo.edu.ar/estudios/posgrados")
 ]       
 
 fce_econet = [
