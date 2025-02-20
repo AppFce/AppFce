@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Facebook FCE",
+        "imagen": "imagen_base_redes_facebook.png",
+        "url": "https://www.facebook.com/fceconomicasuncuyo/"
+    },
+    {
+        "nombre": "Twitter FCE",
+        "imagen": "imagen_base_redes_x.png",
+        "url": "https://twitter.com/i/flow/login?redirect_after_login=%2Ffceuncuyo"
+    },
+    {
+        "nombre": "YouTube FCE",
+        "imagen": "imagen_base_redes_youtube.png",
+        "url": "https://www.youtube.com/channel/UCRfcSsnYb2eGIq9vh_T18Tw"
+    },
+    {
+        "nombre": "LinkedIn FCE",
+        "imagen": "imagen_base_redes_linkedin.png",
+        "url": "https://www.linkedin.com/company/fceuncuyo/?viewAsMember=true"
+    },
+    {
+        "nombre": "Instagram FCE",
+        "imagen": "imagen_base_redes_instagram.png",
+        "url": "https://www.instagram.com/fceconomicasuncuyo/"
+    },
+    {
+        "nombre": "Secretaría de Bienestar FCE",
+        "imagen": "imagen_base_redes_instagram.png",
+        "url": "https://www.instagram.com/fcebienestar/"
+    },
+    {
+        "nombre": "Secretaría de Bienestar SR",
+        "imagen": "imagen_base_redes_instagram.png",
+        "url": "https://www.instagram.com/fcebienestar.sr/"
+    },
+    {
+        "nombre": "Extensión y Vinculación",
+        "imagen": "imagen_base_redes_instagram.png",
+        "url": "https://www.instagram.com/extension_fce/"
+    }
+]
