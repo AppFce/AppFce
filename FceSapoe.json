@@ -1,10 +1,61 @@
-{
-  "nombre": "SAPOE",
-  "contenido": {
-    "quienes_somos": "El SAPOE es el Servicio de Apoyo Pedagógico y Orientación al Estudiante (SAPOE) creado por la Universidad Nacional de Cuyo por medio de la Ordenanza Nª 44/1986 C.S.",
-    "finalidad": "Favorecer el adecuado desempeño de los estudiantes de FCE. Brindar asesoramiento pedagógico a docentes.",
-    "como_lo_hacemos": "EL SAPOE DE LA FCE OFRECE A SUS DOCENTES: SERVICIO DE ASESORÍA PEDAGÓGICA - Trabajo sobre estrategias de enseñanza y evaluación de los aprendizajes (individual, grupal, por cátedra o área) - Orientación y formación para el ejercicio de la función tutorial del docente con estudiantes o grupos de estudiantes en riesgo académico - Tutorías de apoyo al egreso. ACTUALIZACIÓN E INNOVACIÓN SOBRE TEMAS DIDÁCTICO-CURRICULARES - Cursos, Talleres y Jornadas de formación y capacitación sobre diversos temas a solicitud de los docentes. ASESORAMIENTO SOBRE INVESTIGACIÓN - Orientación sobre temáticas vinculadas a la presentación de proyectos de investigación a solicitud de los docentes. EL SAPOE DE LA FCE OFRECE A SUS ESTUDIANTES: Orientación integral al estudiante - Reorientación vocacional. - Orientación para planificar los tiempos de estudio. - Talleres para trabajar el miedo y la ansiedad en los exámenes. - Tutorías disciplinares, talleres de juego y de expresión sobre la vocación. - Tutorías disciplinares a través de TRACES.",
-    "como_esta_conformado_el_equipo": "El equipo de trabajo está compuesto por profesionales del campo de las Ciencias de la Educación, la Psicopedagogía y la Psicología.",
-    "como_contactarnos": "Nos encontramos en el edificio de enseñanza, tercer piso. TELÉFONO: 413500 - interno 2424 o llamar al 4492424. Correo: sapoe@fce.uncu.edu.ar. San Rafael: sapoesr@fce.uncu.edu.ar. Sede Junín: sapoejunin@fce.uncu.edu.ar"
-  }
-}
+[
+    {
+        "titulo": "SAPOE",
+        "contenido": """
+SAPOE
+
+¿Quiénes somos?
+El SAPOE es el Servicio de Apoyo Pedagógico y Orientación al Estudiante (SAPOE) creado por la Universidad Nacional de Cuyo por medio de la Ordenanza Nª 44/1986 C.S.
+
+
+¿Cuáles es nuestra finalidad?
+Favorecer el adecuado desempeño de los estudiantes de FCE
+
+Brindar asesoramiento pedagógico a docentes.
+
+
+¿Cómo lo hacemos?
+
+EL SAPOE DE LA FCE OFRECE A SUS DOCENTES:
+
+SERVICIO DE ASESORÍA PEDAGÓGICA  
+- Trabajo sobre estrategias de enseñanza y evaluación de los aprendizajes (individual, grupal, por cátedra o área)
+
+- Orientación y formación para el ejercicio dela función tutorial del docente con estudiantes o grupos de estudiantes en riesgo académico
+
+- Tutorías de apoyo al egreso 
+
+ACTUALIZACIÓN E INNOVACIÓN SOBRE TEMAS DIDÁCTICO-CURRICULARES
+- Cursos, Talleres y Jornadas de formación y capacitación sobre diversos  temas a solicitud de los docentes
+
+ASESORAMIENTO SOBRE INVESTIGACIÓN  
+- Orientación sobre temáticas vinculadas a la presentación de proyectos de investigación a solicitud de los docentes
+
+
+EL SAPOE DE LA FCE OFRECE A SUS ESTUDIANTES:  
+
+Orientación integral al estudiante
+- Reorientación vocacional.
+- Orientación para planificar los tiempos de estudio.
+- Talleres para trabajar el miedo y la ansiedad en los exámenes.
+- Tutorías disciplinares talleres de juego y de expresión sobre la vocación.
+- Tutorías disciplinares a través de TRACES
+
+¿Cómo está conformado el equipo?
+El equipo de trabajo está compuesto por profesionales del campo de las Ciencias de la Educación,  la Psicopedagogía y la Psicología.
+
+¿Cómo contactarnos?
+Nos encontramos en el edificio de enseñanza, tercer piso
+
+TELÉFONO: 
+413500 - interno 2424
+o llamar al 4492424
+
+Correo: sapoe@fce.uncu.edu.ar
+
+San Rafael: sapoesr@fce.uncu.edu.ar
+
+Sede Junín: sapoejunin@fce.uncu.edu.ar
+""",
+    },
+]
