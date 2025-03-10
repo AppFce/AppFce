@@ -31,7 +31,23 @@
     "clases_examenes": "Clases y Exámenes/Click\nDirector: Daniel Patiño\n\nEquipo: David Fiat, Danilo Tapia, Gonzalo Pruneda y Germán Caprio\n\nUbicación: Edificio de Enseñanza, PB\n\nContacto: Tel: 0261- 4494000 - Int: 4066\n\nMail: click@fce.uncu.edu.ar\n\nHorario: 7:00 a 20.30h",
     "sapoe": "SAPOE\nMendoza: Victoria Bigetti, Susana Priego\n\nJunín: Milena Castán\n\nSan Rafael: Mercedes Mondotte y Fabiana Lamelza\n\nUbicación: Edificio de Enseñanza, 3er Piso\n\nContacto: Tel: 54- 0261-4494000- Int. 2424\n\nMail: sapoe@fce.uncu.edu.ar\n\nSan Rafael: sapoesr@fce.uncu.edu.ar\n\nSede Junín: sapoejunin@fce.uncu.edu.ar",
     "centro_estudiante": "Centro de Estudiantes (CECE)\nUbicación: Edificio de Enseñanza, Planta Baja\n\nContacto: Tel: 54- 0261- 4494000 - Int. 2484\n\nMail: cece@fce.uncu.edu.ar\n\nHorario: 9:00 a 20:00h"
+  },
+  {
+    "titulo": "Info Académica",
+    "reincripcion_anual": "Reinscripción anual\nEs necesaria para realizar cualquier actividad académica, (cursar y/o rendir materias), en el correspondiente año.\n\nEs para aquellos estudiantes que pretendan cursar materias y también para los que no cursen, es decir, que sólo vayan a rendir materias o deban presentar el trabajo final/tesis.",
+    "condicion_alumno": "Condición de Alumno\nAlumno activo: es aquel que se reinscribe cada año en la respectiva carrera.\n\nAlumno pasivo: es aquel que no se reinscribe en un año académico. Sigue siendo alumno pero no puede ejercer actividad académica en ese año (no puede cursar ni rendir exámenes finales)",
+    "tipo_correlatividad": "Tipos de Correlatividades\nCorrelatividad débil: una asignatura es correlativa débil de otra cuando se necesita haber adquirido la condición de "regular" en la primera para poder inscribirse al cursado de la segunda.\n\nCorrelatividad fuerte: una asignatura es correlativa fuerte de otra cuando se necesita tener "aprobada" la primera para poder inscribirse al cursado de la segunda",
+    "ram": "¿Qué es el Rendimiento Académico Negativo (RAN)?\nSe produce cuando el estudiante no ha logrado el rendimiento académico mínimo (aprobar dos obligaciones curriculares en el año académico). Si esto sucede, la reinscripción tiene ese carácter y ese año deberá aprobar dos materias para no repetir el RAN.\n\nMás info en",
+    "ram_link": "https://fce.uncuyo.edu.ar/normas-acadmicas",
+    "aprobar_materia": "¿Cómo aprobar una materia?\nPuede ser por dos medios:\n\n   Por promoción\n\n   Por exámen final (en condición de estudiante regula o de estudiante libre)\n\nNOTA: recordá revisar las indicaciones de cada cátedra.\n\nEn la imagen compartimos la escala porcentual.",
+    "turnos_mesa": "Turnos de mesa de examen\nPodés rendir exámenes en las siguientes mesas:\n\n   Febrero\n   Marzo\n   Julio\n   Agosto\n   Noviembre\n   Diciembre\n\nMESAS ESPECIALES\n   Abril\n   Septiembre​\n\n¿Quénes pueden rendir una mesa especial? Las personas que cumplan con las condiciones en el siguiente link",
+    "link_turnos_mesa": "https://fce.uncuyo.edu.ar/mesas-especiales",
+  
+  
   }
+
+
+
 ]
 
 
