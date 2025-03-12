@@ -1,37 +1,30 @@
 [
     {
         "nombre": "Web FCE",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/"
     },
     {
         "nombre": "Oferta Académica",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/estudios-fce"
     },
     {
         "nombre": "Académica",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/secretara-acadmica"
     },
     {
         "nombre": "Administración y Finanzas",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/secretara-administrativo-financiera"
     },
     {
         "nombre": "Bienestar",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/secretara-de-asuntos-estudiantiles"
     },
     {
         "nombre": "Extensión y Vinculación",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/cursos/"
     },
     {
         "nombre": "Posgrado, Investigación e Internacionalización",
-        "imagen": "imagen_base_fce_link.png",
         "url": "https://fce.uncuyo.edu.ar/estudios/posgrados"
     }
 ]
