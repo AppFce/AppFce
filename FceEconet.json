@@ -1,22 +1,18 @@
 [
     {
         "nombre": "Accedé a INGRESO",
-        "imagen": "imagen_base_econet_ingreso.png",
         "url": "https://eingreso.fce.uncu.edu.ar/login/index.php"
     },
     {
         "nombre": "Accedé a GRADO",
-        "imagen": "imagen_base_econet_grado.png",
         "url": "https://moodle.fce.uncu.edu.ar/login/index.php"
     },
     {
         "nombre": "Accedé a POSGRADO",
-        "imagen": "imagen_base_econet_posgrado.png",
         "url": "https://eposgrado.fce.uncu.edu.ar/login/index.php"
     },
     {
         "nombre": "Accedé a EXTENSIÓN",
-        "imagen": "imagen_base_econet_extension.png",
         "url": "https://eextension.fce.uncu.edu.ar/login/index.php"
     }
 ]
