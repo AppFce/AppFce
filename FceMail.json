@@ -1,7 +1,6 @@
 [
     {
         "nombre": "Accedé al MAIL",
-        "imagen": "imagen_base_mail.png",
         "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hd=fce.uncu.edu.ar&ifkv=AaSxoQx1Vwt1WONQmU1LiIwqswpObmaDgh8L285VHLDQ9hqMMIhMIMVCb8A5jOXbmhheRNxn17GGZQ&ltmpl=default&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1156657795%3A1714393827643475&theme=mn&ddm=0"
     }
 ]
